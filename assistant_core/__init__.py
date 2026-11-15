@@ -1,0 +1,2 @@
+"""Aster Local assistant core."""
+
